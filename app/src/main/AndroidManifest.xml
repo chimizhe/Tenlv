@@ -74,7 +74,7 @@
 
         <activity
             android:name=".ui.scancode.ScannerActivity"
-            android:screenOrientation="portrait"
+            android:screenOrientation="landscape"
             android:windowSoftInputMode="stateAlwaysHidden">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -85,9 +85,9 @@
         <!--<activity android:name=".ui.scancode.ScannerActivity"-->
             <!--android:screenOrientation="portrait"/>-->
         <activity android:name=".ui.idcardread.IdCardReadActivity"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="landscape"/>
         <activity android:name=".ui.facedetector.TakePhotoActivity"
-        android:screenOrientation="portrait"/>
+        android:screenOrientation="landscape"/>
     </application>
 
 </manifest>
