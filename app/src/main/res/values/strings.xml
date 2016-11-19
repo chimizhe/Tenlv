@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">武汉城市圈旅游e卡通</string>
+
+    <string name="again_to_exit_current_app">再按一次退出%s</string>
+    <string name="tips">提示</string>
+    <string name="app_file_is_exist">安装包已存在，是否重新下载?</string>
+    <string name="download_again">重新下载</string>
+    <string name="install">安装</string>
+    <string name="download_complete">下载已完成</string>
+    <string name="no_data">暂无相关数据</string>
+    <string name="scan_qrcode_success">扫码成功!</string>
+    <string name="scan_qrcode_fail">扫码失败!</string>
+    <string name="scan_idcard_success">信息读取成功!</string>
+    <string name="scan_idcard_fail">信息读取失败!</string>
+    <string name="scan_idcard_going">正在读取中…</string>
+    <string name="auto_mode">自动模式</string>
+    <string name="hand_mode">手动模式</string>
+    <string name="face_detector">人脸识别</string>
+    <string name="scan">扫描</string>
+
+</resources>

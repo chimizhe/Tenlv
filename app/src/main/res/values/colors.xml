@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--<color name="colorPrimary">#1b1b1b</color>-->
+    <color name="colorPrimary">#368ff5</color>
+    <drawable name="colorPrimary">@color/colorPrimary</drawable>
+    <color name="colorPrimaryDark">#1b1b1b</color>
+    <drawable name="colorPrimaryDark">@color/colorPrimaryDark</drawable>
+    <color name="colorAccent">@color/txt_title</color>
+
+    <color name="black">#000000</color>
+    <color name="tips_color">#c7a163</color>
+
+    <color name="bg_zero_stock">#7d000000</color>
+
+    <color name="white">#ffffff</color>
+    <drawable name="white">#ffffff</drawable>
+
+    <color name="toolbar_title">@color/white</color>
+    <color name="toolbar_bg">@color/colorPrimary</color>
+
+    <color name="btn_white_p">#dcdcdc</color>
+    <color name="btn_white_n">@color/white</color>
+
+    <drawable name="gray_drawable">#727272</drawable>
+    <color name="red">#ff0000</color>
+    <color name="green">#05B340</color>
+
+    <color name="color_price">@color/tips_color</color>
+
+    <color name="txt_blue">#368ff5</color>
+    <color name="blue">#368ff5</color>
+    <color name="dark_blue">#0a1954</color>
+    <color name="txt_color_1">#1a160f</color>
+
+    <color name="txt_hint">#999999</color>
+    <color name="txt_title">#666666</color>
+    <color name="txt_999">#999999</color>
+    <color name="txt_333">#333333</color>
+    <color name="txt_666">#666666</color>
+    <drawable name="txt_666">#666666</drawable>
+
+
+    <color name="common_bg">#f2f2f2</color>
+
+
+    <color name="psts_tab_bg_pressed">#f2f2f2</color>
+    <color name="tab_text_selected_color">@color/tips_color</color>
+    <color name="tab_text_color">@color/txt_666</color>
+    <color name="tab_indicator_color">@color/tips_color</color>
+
+
+    <color name="bg_item_n">@android:color/white</color>
+    <color name="bg_item_p">#dcdcdc</color>
+    <color name="bg_white_sl">#f9f6f6</color>
+
+    <color name="txt_spy">#2e3b29</color>
+
+
+    <color name="item_divide_line">#e1e1e1</color>
+    <color name="toolbar_divide">#c8c8c8</color>
+    <color name="page_divide">#dfdfdf</color>
+    <color name="top_divide_line">#cbcbcb</color>
+    <drawable name="picture">#E7E7E7</drawable>
+
+    <color name="text_color">#f5730b</color>
+    <color name="transparent">#00000000</color>
+    <color name="dark_green">#162116</color>
+
+</resources>

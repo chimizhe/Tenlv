@@ -1,0 +1,85 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#262626"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="60dp"
+        android:layout_marginRight="60dp"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:layout_width="375dp"
+            android:layout_height="292dp"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/resultEt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/transparent"
+                android:gravity="center"
+                android:textColor="#262626"
+                android:textCursorDrawable="@null"
+                android:textSize="15sp" />
+
+            <ImageView
+                android:layout_width="375dp"
+                android:layout_height="292dp"
+                android:background="#262626"
+                android:src="@mipmap/bg_scan_qrcode" />
+
+            <TextView
+                android:id="@+id/qRCodeStateTv"
+                style="@style/CommonTextLarge"
+                android:layout_gravity="center"
+                android:text="第三方" />
+        </FrameLayout>
+
+        <TextView
+            android:id="@+id/qRCodeResultTv"
+            style="@style/CommonTextLarge"
+            android:layout_gravity="center"
+            android:layout_marginTop="60dp"
+            android:text="信息读取成功" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:paddingRight="60dp"
+        android:paddingLeft="60dp"
+        android:paddingTop="80dp"
+        android:orientation="vertical"
+        android:background="@color/dark_green">
+
+        <ImageView
+            android:layout_width="333dp"
+            android:layout_height="212dp"
+            android:src="@mipmap/bg_scan_idcard" />
+
+        <TextView
+            android:id="@+id/iDCarReadResultTV"
+            style="@style/CommonTextLarge"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:text="信息读取成功" />
+
+        <Button
+            android:id="@+id/inputIdCarBtn"
+            android:layout_width="333dp"
+            android:layout_height="60dp"
+            android:background="@drawable/btn_common"
+            android:textColor="@color/white"
+            android:textSize="28sp"
+            android:layout_marginTop="30dp"
+            android:text="手动输入身份证" />
+
+    </LinearLayout>
+</LinearLayout>

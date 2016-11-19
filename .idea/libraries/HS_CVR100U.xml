@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="HS_CVR100U">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/HS_CVR100U.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

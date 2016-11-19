@@ -1,0 +1,118 @@
+<resources>
+
+
+    <style name="MyAppTheme" parent="@style/BaseTheme"></style>
+
+    <!-- Base application theme. -->
+    <style name="BaseTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:windowAnimationStyle">@style/AnimationActivity</item>
+        <item name="android:windowSoftInputMode">adjustResize</item>
+        <item name="android:popupMenuStyle">@style/PopupMenuStyle</item>
+        <item name="android:textAppearanceLargePopupMenu">@style/myPopupMenuTextAppearanceLarge
+        </item>
+        <item name="textAppearanceLargePopupMenu">@style/myPopupMenuTextAppearanceLarge</item>
+        <item name="android:textAppearanceSmallPopupMenu">@style/myPopupMenuTextAppearanceSmall
+        </item>
+        <item name="textAppearanceSmallPopupMenu">@style/myPopupMenuTextAppearanceSmall</item>
+
+        <item name="android:actionMenuTextAppearance">@style/MenuTextStyle</item>
+        <item name="actionMenuTextAppearance">@style/MenuTextStyle</item>
+
+        <item name="actionMenuTextColor">@color/toolbar_title</item>
+        <item name="android:actionMenuTextColor">@color/toolbar_title</item>
+
+        <!--<item name="android:selectableItemBackground">@drawable/bg_item_grey</item>-->
+
+        <!-- toolbar（actionbar）颜色 -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <!-- 状态栏颜色 -->
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <!-- 窗口的背景颜色 -->
+        <item name="android:textColorPrimary">@color/txt_333</item>
+        <item name="colorControlNormal">@color/colorPrimary</item>
+        <item name="colorControlActivated">@color/colorPrimary</item>
+
+    </style>
+
+
+    <style name="MenuTextStyle">
+        <item name="android:textColor">@color/toolbar_title</item>
+        <item name="android:textSize">17dp</item>
+    </style>
+
+
+    <style name="PopupMenuStyle" parent="@style/Widget.AppCompat.PopupMenu">
+        <item name="android:textColor">@color/txt_title</item>
+        <item name="android:textAppearanceSmallPopupMenu">@style/myPopupMenuTextAppearanceSmall
+        </item>
+        <item name="android:textAppearanceLargePopupMenu">@style/myPopupMenuTextAppearanceLarge
+        </item>
+    </style>
+
+    <style name="myPopupMenuTextAppearanceSmall" parent="@style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Small">
+        <item name="android:textColor">@color/txt_title</item>
+    </style>
+
+    <style name="myPopupMenuTextAppearanceLarge" parent="@style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Large">
+        <item name="android:textColor">@color/txt_title</item>
+    </style>
+
+
+    <style name="AnimationActivity" parent="@android:style/Animation.Activity">
+        <!--<item name="android:windowEnterAnimation">@anim/right_in</item>-->
+        <!--<item name="android:windowExitAnimation">@anim/right_out</item>-->
+
+        <item name="android:activityOpenEnterAnimation">@anim/right_in</item>
+        <item name="android:activityOpenExitAnimation">@anim/left_out</item>
+        <item name="android:activityCloseEnterAnimation">@anim/left_in</item>
+        <item name="android:activityCloseExitAnimation">@anim/right_out</item>
+
+    </style>
+
+
+    <!-- 自定义popupwindow动画-->
+    <style name="PopupAnimation_bottom" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/push_bottom_in</item>
+        <item name="android:windowExitAnimation">@anim/push_bottom_out</item>
+
+    </style>
+
+    <style name="PopupAnimatin_left" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/left_in</item>
+        <item name="android:windowExitAnimation">@anim/left_out</item>
+    </style>
+
+    <style name="PopupAnimation_fade" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/ppw_zoom_in</item>
+        <item name="android:windowExitAnimation">@anim/ppw_zoom_out</item>
+    </style>
+
+    <style name="linearLayout_root">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@color/white</item>
+        <item name="android:orientation">vertical</item>
+
+    </style>
+
+    <style name="CommonButtonStyle">
+
+    </style>
+
+    <style name="AutoSpaceFitStyle">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+
+    <style name="CommonTextLarge">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textColor">@color/green</item>
+        <item name="android:textSize">28sp</item>
+    </style>
+</resources>

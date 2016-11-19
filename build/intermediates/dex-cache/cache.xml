@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProject\TenLv\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.0.1_15406d913b550c488643787efc0acd21fbd5530b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\minhe\.gradle\caches\modules-2\files-2.1\com.squareup\otto\1.3.8\cf615176cd1177edf71d3c9605f8dc148fede6be\otto-1.3.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cf615176cd1177edf71d3c9605f8dc148fede6be">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\10\otto-1.3.8_0b2239322e411eb51835fa7e1b8e2fa153a3a6ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProject\TenLv\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_022a0495b3414d258fb749707c75860ac1f576dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\minhe\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_d744f5364ff30b3d42424e3621852fb897646705\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProject\TenLv\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_b793235dbc323b3d8b8e1a371ec3cd24f0e60dda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProject\TenLv\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_b9bb121c76f18c56b3eeb122e0aca412c2d4d996\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProject\TenLv\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c65af658ee027c2143c6614e23cdabef54cfb4fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\minhe\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_426bb3bc67939fc7fb59794a4ef4ae4189018575\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProject\TenLv\app\libs\microlog4android-1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2612759eba0e1da035e939922440bb4ef83972df">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\2\microlog4android-1.1_424b3e1d091721ebaffdce247df5364cde743e3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\minhe\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.1.2\a1b4b8e4dc5f7bfa9186e79f9e267c1539a847b0\logging-interceptor-3.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a1b4b8e4dc5f7bfa9186e79f9e267c1539a847b0">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.1.2_138796cc7b5109a6d86ee83f75babf3f892cf2c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProject\TenLv\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_7d8973b407908eab2c08ac18125f0ebf399afa43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProject\TenLv\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1522aaa54ca4a23b01c6b3b474016847a40916bd">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b287718b78491b727219106c9a9d155bec436984\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProject\TenLv\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4d5ad57c651b249c25e64ae154d07e1beb9f1856">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4c66707c4c598f586a26335f3f1bfd48ead3d8ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProject\TenLv\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_695e04186d3b484b3a4c221f765e5f19619db482\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProject\TenLv\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_05f25fa584d2ed4b83f7ec77c5bb61ab448af006\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProject\TenLv\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7ab638974c1bb355654c31eec72f309c23ebcaef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\minhe\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_62b624ce5e48e0e1d78337a6b8c5b4fba8114a13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProject\TenLv\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_e786577dbf5653e731c03f21e8c44293c5126163\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProject\TenLv\app\libs\httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpclient-4.3.6_42bdb9aa81ad8c0af0423eeef9f25e169f1ece2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProject\TenLv\app\build\intermediates\exploded-aar\com.orhanobut\logger\1.15\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2a156b99fc7cc034308f942906b09d32754a4470">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.orhanobut-logger-1.15_31d7a1b12fd920366298d905fbd6a2cbf084fdc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\minhe\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.1.0\693eddc23e87ab13f9cf5001707ce8e7e1d1ff01\adapter-rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\10\adapter-rxjava-2.1.0_8137f40555b756aea39936b1cf32495757fadd22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProject\TenLv\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_1ad6e6dc7b02c35c96aab6a8bae0e8137547ddc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProject\TenLv\app\libs\synjonesSerial.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="02102921a8ef945942689cc5dfd5f47b1923cb2e">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\2\synjonesSerial_fa15d6fa6fe70557c4399ef38670cab6ec9c6546\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProject\TenLv\app\libs\youtulivecheck.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="595bb5304e1d2ae4ed1c44f30d05e3fa8af226bb">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\2\youtulivecheck_f6fb83832eaaa60609f0b8de9f41e0066cea50e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\minhe\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.8\f9dbae366a6a3d6b5041c5e8db0dcdfdc35c27b5\rxjava-1.1.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9dbae366a6a3d6b5041c5e8db0dcdfdc35c27b5">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.1.8_f73e910ed28d86ba3010bc170e1d12ff52fe05d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\minhe\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\10\eventbus-3.0.0_eb1d01a1b5db0e5cab0d2011cd5efee79e233c4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProject\TenLv\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.reactivex-rxandroid-1.2.1_a2516c8214c7d1a89b0283539516b866ab394f64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProject\TenLv\app\libs\android-async-http-1.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-async-http-1.4.9_3afecc2db10c540d50b856e827e710b776b6397a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProject\TenLv\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7ec6ffd9894e7ef6195c7537fe331b541d05fa08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProject\TenLv\app\libs\ScannerInterface.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="733be29612ae957fc77cc2a191baacf353a25542">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\2\ScannerInterface_08fcec080f21c844674d9466ad5c6600afe86a1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProject\TenLv\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_16e8730fe0040b3daca284664ba0e84ba8b33714\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\minhe\.gradle\caches\modules-2\files-2.1\com.readystatesoftware.systembartint\systembartint\1.0.3\de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287\systembartint-1.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\10\systembartint-1.0.3_4a38d36995814880071106f1c4a11f2c04a34287\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\minhe\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_c4446ea3cabaf2e286fdcc32f4561917fb844eb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProject\TenLv\app\libs\HS_CVR100U.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="268c1fd9b35611387f651122dcd1dfe88dcba085">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\2\HS_CVR100U_aae8833d265f1132bc11215b9b92793b9239e196\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\minhe\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_a4094544cac010b4a770b126f2e84124c3034d62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\minhe\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_b4e50410a8a827b17c8eca0c28aac2cc3af3f664\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProject\TenLv\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_7e43b9b30f14fb06a56fd66760d1f9a448412bd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProject\TenLv\app\libs\sdtapi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="14279431bda51032f5254fc089ce657b08ceb1ff">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\2\sdtapi_f2b4cabaeba5d2c581228a853c2769297b71afe8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProject\TenLv\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b534d269c2d2067a76335556f0900c1f9fe5e310\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\minhe\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_6cb9673cf0c1897edb3110cc08b8bfe1b4981c46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProject\TenLv\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\AndroidStudioProject\TenLv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_bb2ec82abcfe33707ed7309e71c63a7fb5dc3080\classes.dex" />
+    </item>
+
+</items>

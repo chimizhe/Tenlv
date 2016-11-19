@@ -1,0 +1,48 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="fab_scroll_threshold">4dp</dimen>
+
+
+    <dimen name="dimen_30">30dp</dimen>
+    <dimen name="dimen_35">35dp</dimen>
+    <dimen name="dimen_40">40dp</dimen>
+    <dimen name="dimen_45">45dp</dimen>
+    <dimen name="dimen_50">50dp</dimen>
+    <dimen name="dimen_56">56dp</dimen>
+    <dimen name="dimen_60">60dp</dimen>
+    <dimen name="dimen_70">70dp</dimen>
+    <dimen name="dimen_75">75dp</dimen>
+    <dimen name="dimen_80">80dp</dimen>
+    <dimen name="dimen_90">90dp</dimen>
+    <dimen name="dimen_100">100dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="sticky_category_height">50dp</dimen>
+
+    <dimen name="bottom_nav_bar_height">48dp</dimen>
+
+    <dimen name="font_Level_0">12dp</dimen>
+    <dimen name="font_Level_1">13dp</dimen>
+    <dimen name="font_Level_2">14dp</dimen>
+    <dimen name="font_Level_3">15dp</dimen>
+    <dimen name="font_Level_4">16dp</dimen>
+    <dimen name="font_Level_5">17dp</dimen>
+    <dimen name="font_Level_6">18dp</dimen>
+    <dimen name="font_Level_7">19dp</dimen>
+    <dimen name="font_Level_8">20dp</dimen>
+
+    <dimen name="font_toolbar">18dp</dimen>
+
+    <dimen name="button_height">48dp</dimen>
+
+    <dimen name="button_level1">35dp</dimen>
+    <dimen name="button_level2">40dp</dimen>
+    <dimen name="button_level3">45dp</dimen>
+    <dimen name="button_level4">48dp</dimen>
+    <dimen name="action_bar_size" >45dp</dimen>
+
+
+</resources>
