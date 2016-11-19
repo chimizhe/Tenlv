@@ -7,6 +7,7 @@ import android.content.IntentFilter;
 import android.os.Handler;
 import android.os.Message;
 import android.text.Editable;
+import android.text.TextUtils;
 import android.text.TextWatcher;
 import android.util.Log;
 import android.view.View;
@@ -93,7 +94,7 @@ public class ScannerActivity extends AppBarActivity {
 
 			@Override
 			public void afterTextChanged(Editable s) {
-				if(!isSend) {
+				if(!isSend&&!TextUtils.isEmpty(s.toString())) {
 					mScanStatus = ScanStatus.START;
 					mHandler.sendEmptyMessageDelayed(SCAN_SUCCESS_TIPS, 1500);
 					mHandler.sendEmptyMessageDelayed(SCAN_SUCCESS_RESULT, 4000);
